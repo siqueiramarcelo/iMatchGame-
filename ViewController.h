@@ -20,6 +20,6 @@
 @property (nonatomic) int scoreValueNow;
 
 - (IBAction)restartGame:(id)sender;
-- (IBAction)showGameCenter:(id)sender;
+- (IBAction)showGameCenter:(id)sender; 
 
 @end
