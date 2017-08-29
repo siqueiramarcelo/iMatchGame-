@@ -1,0 +1,707 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9C9F4CA918DE05E900723CBD /* card1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C8218DE05E900723CBD /* card1.png */; };
+		9C9F4CAA18DE05E900723CBD /* card2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C8318DE05E900723CBD /* card2.png */; };
+		9C9F4CAB18DE05E900723CBD /* card3.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C8418DE05E900723CBD /* card3.png */; };
+		9C9F4CAC18DE05E900723CBD /* card4.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C8518DE05E900723CBD /* card4.png */; };
+		9C9F4CAD18DE05E900723CBD /* card5.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C8618DE05E900723CBD /* card5.png */; };
+		9C9F4CAE18DE05E900723CBD /* card6.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C8718DE05E900723CBD /* card6.png */; };
+		9C9F4CAF18DE05E900723CBD /* card7.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C8818DE05E900723CBD /* card7.png */; };
+		9C9F4CB018DE05E900723CBD /* card8.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C8918DE05E900723CBD /* card8.png */; };
+		9C9F4CB118DE05E900723CBD /* card9.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C8A18DE05E900723CBD /* card9.png */; };
+		9C9F4CB218DE05E900723CBD /* card10.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C8B18DE05E900723CBD /* card10.png */; };
+		9C9F4CB318DE05E900723CBD /* card11.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C8C18DE05E900723CBD /* card11.png */; };
+		9C9F4CB418DE05E900723CBD /* card12.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C8D18DE05E900723CBD /* card12.png */; };
+		9C9F4CB518DE05E900723CBD /* card13.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C8E18DE05E900723CBD /* card13.png */; };
+		9C9F4CB618DE05E900723CBD /* card14.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C8F18DE05E900723CBD /* card14.png */; };
+		9C9F4CB718DE05E900723CBD /* card15.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C9018DE05E900723CBD /* card15.png */; };
+		9C9F4CB818DE05E900723CBD /* card16.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C9118DE05E900723CBD /* card16.png */; };
+		9C9F4CB918DE05E900723CBD /* card17.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C9218DE05E900723CBD /* card17.png */; };
+		9C9F4CBA18DE05E900723CBD /* card18.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C9318DE05E900723CBD /* card18.png */; };
+		9C9F4CBB18DE05E900723CBD /* card19.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C9418DE05E900723CBD /* card19.png */; };
+		9C9F4CBC18DE05E900723CBD /* card20.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C9518DE05E900723CBD /* card20.png */; };
+		9C9F4CBD18DE05E900723CBD /* card21.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C9618DE05E900723CBD /* card21.png */; };
+		9C9F4CBE18DE05E900723CBD /* card22.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C9718DE05E900723CBD /* card22.png */; };
+		9C9F4CBF18DE05E900723CBD /* card23.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C9818DE05E900723CBD /* card23.png */; };
+		9C9F4CC018DE05E900723CBD /* card24.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C9918DE05E900723CBD /* card24.png */; };
+		9C9F4CC118DE05E900723CBD /* card25.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C9A18DE05E900723CBD /* card25.png */; };
+		9C9F4CC218DE05E900723CBD /* card26.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C9B18DE05E900723CBD /* card26.png */; };
+		9C9F4CC318DE05E900723CBD /* card27.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C9C18DE05E900723CBD /* card27.png */; };
+		9C9F4CC418DE05E900723CBD /* card28.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C9D18DE05E900723CBD /* card28.png */; };
+		9C9F4CC518DE05E900723CBD /* card29.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C9E18DE05E900723CBD /* card29.png */; };
+		9C9F4CC618DE05E900723CBD /* card30.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4C9F18DE05E900723CBD /* card30.png */; };
+		9C9F4CC718DE05E900723CBD /* cover.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4CA018DE05E900723CBD /* cover.png */; };
+		9C9F4CC818DE05E900723CBD /* cover2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4CA118DE05E900723CBD /* cover2.png */; };
+		9C9F4CC918DE05E900723CBD /* icon29.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4CA218DE05E900723CBD /* icon29.png */; };
+		9C9F4CCA18DE05E900723CBD /* icon40.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4CA318DE05E900723CBD /* icon40.png */; };
+		9C9F4CCB18DE05E900723CBD /* icon58.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4CA418DE05E900723CBD /* icon58.png */; };
+		9C9F4CCC18DE05E900723CBD /* icon76.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4CA518DE05E900723CBD /* icon76.png */; };
+		9C9F4CCD18DE05E900723CBD /* icon80.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4CA618DE05E900723CBD /* icon80.png */; };
+		9C9F4CCE18DE05E900723CBD /* icon152.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4CA718DE05E900723CBD /* icon152.png */; };
+		9C9F4CCF18DE05E900723CBD /* restartButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9F4CA818DE05E900723CBD /* restartButton.png */; };
+		9CA028D118DDD89E00D13595 /* restartButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CA028D018DDD89E00D13595 /* restartButton.png */; };
+		9CA028D918DDF5E000D13595 /* cover2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CA028D218DDF5E000D13595 /* cover2.png */; };
+		9CA028DA18DDF5E000D13595 /* icon29.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CA028D318DDF5E000D13595 /* icon29.png */; };
+		9CA028DB18DDF5E000D13595 /* icon40.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CA028D418DDF5E000D13595 /* icon40.png */; };
+		9CA028DC18DDF5E000D13595 /* icon58.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CA028D518DDF5E000D13595 /* icon58.png */; };
+		9CA028DD18DDF5E000D13595 /* icon76.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CA028D618DDF5E000D13595 /* icon76.png */; };
+		9CA028DE18DDF5E000D13595 /* icon80.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CA028D718DDF5E000D13595 /* icon80.png */; };
+		9CA028DF18DDF5E000D13595 /* icon152.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CA028D818DDF5E000D13595 /* icon152.png */; };
+		9CA1664818D9412D00F1FB4F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9CA1664718D9412D00F1FB4F /* Foundation.framework */; };
+		9CA1664A18D9412D00F1FB4F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9CA1664918D9412D00F1FB4F /* CoreGraphics.framework */; };
+		9CA1664C18D9412D00F1FB4F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9CA1664B18D9412D00F1FB4F /* UIKit.framework */; };
+		9CA1665218D9412D00F1FB4F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9CA1665018D9412D00F1FB4F /* InfoPlist.strings */; };
+		9CA1665418D9412D00F1FB4F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CA1665318D9412D00F1FB4F /* main.m */; };
+		9CA1665818D9412D00F1FB4F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CA1665718D9412D00F1FB4F /* AppDelegate.m */; };
+		9CA1666018D9412D00F1FB4F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CA1665F18D9412D00F1FB4F /* Images.xcassets */; };
+		9CA1666718D9412D00F1FB4F /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9CA1666618D9412D00F1FB4F /* XCTest.framework */; };
+		9CA1666818D9412D00F1FB4F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9CA1664718D9412D00F1FB4F /* Foundation.framework */; };
+		9CA1666918D9412D00F1FB4F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9CA1664B18D9412D00F1FB4F /* UIKit.framework */; };
+		9CA1667118D9412D00F1FB4F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9CA1666F18D9412D00F1FB4F /* InfoPlist.strings */; };
+		9CA1667318D9412D00F1FB4F /* iMemoGameTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CA1667218D9412D00F1FB4F /* iMemoGameTests.m */; };
+		9CA5C3C418DCB1FA002DE7FB /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9CA5C3C318DCB1FA002DE7FB /* iAd.framework */; };
+		9CD7922F18D941C700A42B80 /* gameButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CD7920E18D941C700A42B80 /* gameButton.m */; };
+		9CD7925218D9420700A42B80 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CD7924F18D9420700A42B80 /* Main.storyboard */; };
+		9CD7925318D9420700A42B80 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CD7925118D9420700A42B80 /* ViewController.m */; };
+		9CD7925518D9471600A42B80 /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9CD7925418D9471500A42B80 /* GameKit.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9CA1666A18D9412D00F1FB4F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9CA1663C18D9412D00F1FB4F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9CA1664318D9412D00F1FB4F;
+			remoteInfo = iMemoGame;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9C9F4C8218DE05E900723CBD /* card1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card1.png; sourceTree = "<group>"; };
+		9C9F4C8318DE05E900723CBD /* card2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card2.png; sourceTree = "<group>"; };
+		9C9F4C8418DE05E900723CBD /* card3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card3.png; sourceTree = "<group>"; };
+		9C9F4C8518DE05E900723CBD /* card4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card4.png; sourceTree = "<group>"; };
+		9C9F4C8618DE05E900723CBD /* card5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card5.png; sourceTree = "<group>"; };
+		9C9F4C8718DE05E900723CBD /* card6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card6.png; sourceTree = "<group>"; };
+		9C9F4C8818DE05E900723CBD /* card7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card7.png; sourceTree = "<group>"; };
+		9C9F4C8918DE05E900723CBD /* card8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card8.png; sourceTree = "<group>"; };
+		9C9F4C8A18DE05E900723CBD /* card9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card9.png; sourceTree = "<group>"; };
+		9C9F4C8B18DE05E900723CBD /* card10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card10.png; sourceTree = "<group>"; };
+		9C9F4C8C18DE05E900723CBD /* card11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card11.png; sourceTree = "<group>"; };
+		9C9F4C8D18DE05E900723CBD /* card12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card12.png; sourceTree = "<group>"; };
+		9C9F4C8E18DE05E900723CBD /* card13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card13.png; sourceTree = "<group>"; };
+		9C9F4C8F18DE05E900723CBD /* card14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card14.png; sourceTree = "<group>"; };
+		9C9F4C9018DE05E900723CBD /* card15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card15.png; sourceTree = "<group>"; };
+		9C9F4C9118DE05E900723CBD /* card16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card16.png; sourceTree = "<group>"; };
+		9C9F4C9218DE05E900723CBD /* card17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card17.png; sourceTree = "<group>"; };
+		9C9F4C9318DE05E900723CBD /* card18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card18.png; sourceTree = "<group>"; };
+		9C9F4C9418DE05E900723CBD /* card19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card19.png; sourceTree = "<group>"; };
+		9C9F4C9518DE05E900723CBD /* card20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card20.png; sourceTree = "<group>"; };
+		9C9F4C9618DE05E900723CBD /* card21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card21.png; sourceTree = "<group>"; };
+		9C9F4C9718DE05E900723CBD /* card22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card22.png; sourceTree = "<group>"; };
+		9C9F4C9818DE05E900723CBD /* card23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card23.png; sourceTree = "<group>"; };
+		9C9F4C9918DE05E900723CBD /* card24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card24.png; sourceTree = "<group>"; };
+		9C9F4C9A18DE05E900723CBD /* card25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card25.png; sourceTree = "<group>"; };
+		9C9F4C9B18DE05E900723CBD /* card26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card26.png; sourceTree = "<group>"; };
+		9C9F4C9C18DE05E900723CBD /* card27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card27.png; sourceTree = "<group>"; };
+		9C9F4C9D18DE05E900723CBD /* card28.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card28.png; sourceTree = "<group>"; };
+		9C9F4C9E18DE05E900723CBD /* card29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card29.png; sourceTree = "<group>"; };
+		9C9F4C9F18DE05E900723CBD /* card30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card30.png; sourceTree = "<group>"; };
+		9C9F4CA018DE05E900723CBD /* cover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cover.png; sourceTree = "<group>"; };
+		9C9F4CA118DE05E900723CBD /* cover2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cover2.png; sourceTree = "<group>"; };
+		9C9F4CA218DE05E900723CBD /* icon29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon29.png; sourceTree = "<group>"; };
+		9C9F4CA318DE05E900723CBD /* icon40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon40.png; sourceTree = "<group>"; };
+		9C9F4CA418DE05E900723CBD /* icon58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon58.png; sourceTree = "<group>"; };
+		9C9F4CA518DE05E900723CBD /* icon76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon76.png; sourceTree = "<group>"; };
+		9C9F4CA618DE05E900723CBD /* icon80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon80.png; sourceTree = "<group>"; };
+		9C9F4CA718DE05E900723CBD /* icon152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon152.png; sourceTree = "<group>"; };
+		9C9F4CA818DE05E900723CBD /* restartButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = restartButton.png; sourceTree = "<group>"; };
+		9CA028D018DDD89E00D13595 /* restartButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = restartButton.png; sourceTree = "<group>"; };
+		9CA028D218DDF5E000D13595 /* cover2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cover2.png; sourceTree = "<group>"; };
+		9CA028D318DDF5E000D13595 /* icon29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon29.png; sourceTree = "<group>"; };
+		9CA028D418DDF5E000D13595 /* icon40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon40.png; sourceTree = "<group>"; };
+		9CA028D518DDF5E000D13595 /* icon58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon58.png; sourceTree = "<group>"; };
+		9CA028D618DDF5E000D13595 /* icon76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon76.png; sourceTree = "<group>"; };
+		9CA028D718DDF5E000D13595 /* icon80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon80.png; sourceTree = "<group>"; };
+		9CA028D818DDF5E000D13595 /* icon152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon152.png; sourceTree = "<group>"; };
+		9CA1664418D9412D00F1FB4F /* iMemoGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iMemoGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9CA1664718D9412D00F1FB4F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		9CA1664918D9412D00F1FB4F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		9CA1664B18D9412D00F1FB4F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		9CA1664F18D9412D00F1FB4F /* iMemoGame-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iMemoGame-Info.plist"; sourceTree = "<group>"; };
+		9CA1665118D9412D00F1FB4F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		9CA1665318D9412D00F1FB4F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9CA1665518D9412D00F1FB4F /* iMemoGame-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iMemoGame-Prefix.pch"; sourceTree = "<group>"; };
+		9CA1665618D9412D00F1FB4F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		9CA1665718D9412D00F1FB4F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		9CA1665F18D9412D00F1FB4F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		9CA1666518D9412D00F1FB4F /* iMemoGameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iMemoGameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9CA1666618D9412D00F1FB4F /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		9CA1666E18D9412D00F1FB4F /* iMemoGameTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iMemoGameTests-Info.plist"; sourceTree = "<group>"; };
+		9CA1667018D9412D00F1FB4F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		9CA1667218D9412D00F1FB4F /* iMemoGameTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iMemoGameTests.m; sourceTree = "<group>"; };
+		9CA5C3C318DCB1FA002DE7FB /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
+		9CD7920D18D941C700A42B80 /* gameButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = gameButton.h; sourceTree = "<group>"; };
+		9CD7920E18D941C700A42B80 /* gameButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = gameButton.m; sourceTree = "<group>"; };
+		9CD7924F18D9420700A42B80 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		9CD7925018D9420700A42B80 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		9CD7925118D9420700A42B80 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		9CD7925418D9471500A42B80 /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9CA1664118D9412D00F1FB4F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9CA5C3C418DCB1FA002DE7FB /* iAd.framework in Frameworks */,
+				9CA1664A18D9412D00F1FB4F /* CoreGraphics.framework in Frameworks */,
+				9CA1664C18D9412D00F1FB4F /* UIKit.framework in Frameworks */,
+				9CA1664818D9412D00F1FB4F /* Foundation.framework in Frameworks */,
+				9CD7925518D9471600A42B80 /* GameKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9CA1666218D9412D00F1FB4F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9CA1666718D9412D00F1FB4F /* XCTest.framework in Frameworks */,
+				9CA1666918D9412D00F1FB4F /* UIKit.framework in Frameworks */,
+				9CA1666818D9412D00F1FB4F /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9CA028E318DDF84900D13595 /* icons */ = {
+			isa = PBXGroup;
+			children = (
+				9CA028D318DDF5E000D13595 /* icon29.png */,
+				9CA028D418DDF5E000D13595 /* icon40.png */,
+				9CA028D518DDF5E000D13595 /* icon58.png */,
+				9CA028D618DDF5E000D13595 /* icon76.png */,
+				9CA028D718DDF5E000D13595 /* icon80.png */,
+				9CA028D818DDF5E000D13595 /* icon152.png */,
+			);
+			name = icons;
+			sourceTree = "<group>";
+		};
+		9CA028E418DDF87100D13595 /* cards */ = {
+			isa = PBXGroup;
+			children = (
+				9C9F4C8218DE05E900723CBD /* card1.png */,
+				9C9F4C8318DE05E900723CBD /* card2.png */,
+				9C9F4C8418DE05E900723CBD /* card3.png */,
+				9C9F4C8518DE05E900723CBD /* card4.png */,
+				9C9F4C8618DE05E900723CBD /* card5.png */,
+				9C9F4C8718DE05E900723CBD /* card6.png */,
+				9C9F4C8818DE05E900723CBD /* card7.png */,
+				9C9F4C8918DE05E900723CBD /* card8.png */,
+				9C9F4C8A18DE05E900723CBD /* card9.png */,
+				9C9F4C8B18DE05E900723CBD /* card10.png */,
+				9C9F4C8C18DE05E900723CBD /* card11.png */,
+				9C9F4C8D18DE05E900723CBD /* card12.png */,
+				9C9F4C8E18DE05E900723CBD /* card13.png */,
+				9C9F4C8F18DE05E900723CBD /* card14.png */,
+				9C9F4C9018DE05E900723CBD /* card15.png */,
+				9C9F4C9118DE05E900723CBD /* card16.png */,
+				9C9F4C9218DE05E900723CBD /* card17.png */,
+				9C9F4C9318DE05E900723CBD /* card18.png */,
+				9C9F4C9418DE05E900723CBD /* card19.png */,
+				9C9F4C9518DE05E900723CBD /* card20.png */,
+				9C9F4C9618DE05E900723CBD /* card21.png */,
+				9C9F4C9718DE05E900723CBD /* card22.png */,
+				9C9F4C9818DE05E900723CBD /* card23.png */,
+				9C9F4C9918DE05E900723CBD /* card24.png */,
+				9C9F4C9A18DE05E900723CBD /* card25.png */,
+				9C9F4C9B18DE05E900723CBD /* card26.png */,
+				9C9F4C9C18DE05E900723CBD /* card27.png */,
+				9C9F4C9D18DE05E900723CBD /* card28.png */,
+				9C9F4C9E18DE05E900723CBD /* card29.png */,
+				9C9F4C9F18DE05E900723CBD /* card30.png */,
+				9C9F4CA018DE05E900723CBD /* cover.png */,
+				9C9F4CA118DE05E900723CBD /* cover2.png */,
+				9C9F4CA218DE05E900723CBD /* icon29.png */,
+				9C9F4CA318DE05E900723CBD /* icon40.png */,
+				9C9F4CA418DE05E900723CBD /* icon58.png */,
+				9C9F4CA518DE05E900723CBD /* icon76.png */,
+				9C9F4CA618DE05E900723CBD /* icon80.png */,
+				9C9F4CA718DE05E900723CBD /* icon152.png */,
+				9C9F4CA818DE05E900723CBD /* restartButton.png */,
+			);
+			name = cards;
+			sourceTree = "<group>";
+		};
+		9CA1663B18D9412D00F1FB4F = {
+			isa = PBXGroup;
+			children = (
+				9CD7924F18D9420700A42B80 /* Main.storyboard */,
+				9CD7925018D9420700A42B80 /* ViewController.h */,
+				9CD7925118D9420700A42B80 /* ViewController.m */,
+				9CD7920D18D941C700A42B80 /* gameButton.h */,
+				9CD7920E18D941C700A42B80 /* gameButton.m */,
+				9CD7920F18D941C700A42B80 /* images */,
+				9CA1664D18D9412D00F1FB4F /* iMemoGame */,
+				9CA1666C18D9412D00F1FB4F /* iMemoGameTests */,
+				9CA1664618D9412D00F1FB4F /* Frameworks */,
+				9CA1664518D9412D00F1FB4F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9CA1664518D9412D00F1FB4F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9CA1664418D9412D00F1FB4F /* iMemoGame.app */,
+				9CA1666518D9412D00F1FB4F /* iMemoGameTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9CA1664618D9412D00F1FB4F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9CA5C3C318DCB1FA002DE7FB /* iAd.framework */,
+				9CD7925418D9471500A42B80 /* GameKit.framework */,
+				9CA1664718D9412D00F1FB4F /* Foundation.framework */,
+				9CA1664918D9412D00F1FB4F /* CoreGraphics.framework */,
+				9CA1664B18D9412D00F1FB4F /* UIKit.framework */,
+				9CA1666618D9412D00F1FB4F /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9CA1664D18D9412D00F1FB4F /* iMemoGame */ = {
+			isa = PBXGroup;
+			children = (
+				9CA1665618D9412D00F1FB4F /* AppDelegate.h */,
+				9CA1665718D9412D00F1FB4F /* AppDelegate.m */,
+				9CA1665F18D9412D00F1FB4F /* Images.xcassets */,
+				9CA1664E18D9412D00F1FB4F /* Supporting Files */,
+			);
+			path = iMemoGame;
+			sourceTree = "<group>";
+		};
+		9CA1664E18D9412D00F1FB4F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				9CA1664F18D9412D00F1FB4F /* iMemoGame-Info.plist */,
+				9CA1665018D9412D00F1FB4F /* InfoPlist.strings */,
+				9CA1665318D9412D00F1FB4F /* main.m */,
+				9CA1665518D9412D00F1FB4F /* iMemoGame-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9CA1666C18D9412D00F1FB4F /* iMemoGameTests */ = {
+			isa = PBXGroup;
+			children = (
+				9CA1667218D9412D00F1FB4F /* iMemoGameTests.m */,
+				9CA1666D18D9412D00F1FB4F /* Supporting Files */,
+			);
+			path = iMemoGameTests;
+			sourceTree = "<group>";
+		};
+		9CA1666D18D9412D00F1FB4F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				9CA1666E18D9412D00F1FB4F /* iMemoGameTests-Info.plist */,
+				9CA1666F18D9412D00F1FB4F /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9CD7920F18D941C700A42B80 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				9CA028E418DDF87100D13595 /* cards */,
+				9CA028D218DDF5E000D13595 /* cover2.png */,
+				9CA028D018DDD89E00D13595 /* restartButton.png */,
+				9CA028E318DDF84900D13595 /* icons */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9CA1664318D9412D00F1FB4F /* iMemoGame */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9CA1667618D9412D00F1FB4F /* Build configuration list for PBXNativeTarget "iMemoGame" */;
+			buildPhases = (
+				9CA1664018D9412D00F1FB4F /* Sources */,
+				9CA1664118D9412D00F1FB4F /* Frameworks */,
+				9CA1664218D9412D00F1FB4F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iMemoGame;
+			productName = iMemoGame;
+			productReference = 9CA1664418D9412D00F1FB4F /* iMemoGame.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9CA1666418D9412D00F1FB4F /* iMemoGameTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9CA1667918D9412D00F1FB4F /* Build configuration list for PBXNativeTarget "iMemoGameTests" */;
+			buildPhases = (
+				9CA1666118D9412D00F1FB4F /* Sources */,
+				9CA1666218D9412D00F1FB4F /* Frameworks */,
+				9CA1666318D9412D00F1FB4F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9CA1666B18D9412D00F1FB4F /* PBXTargetDependency */,
+			);
+			name = iMemoGameTests;
+			productName = iMemoGameTests;
+			productReference = 9CA1666518D9412D00F1FB4F /* iMemoGameTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9CA1663C18D9412D00F1FB4F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "Marcelo Siqueira";
+				TargetAttributes = {
+					9CA1664318D9412D00F1FB4F = {
+						DevelopmentTeam = 8N948SNJJ9;
+						SystemCapabilities = {
+							com.apple.GameCenter = {
+								enabled = 1;
+							};
+						};
+					};
+					9CA1666418D9412D00F1FB4F = {
+						TestTargetID = 9CA1664318D9412D00F1FB4F;
+					};
+				};
+			};
+			buildConfigurationList = 9CA1663F18D9412D00F1FB4F /* Build configuration list for PBXProject "iMemoGame" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9CA1663B18D9412D00F1FB4F;
+			productRefGroup = 9CA1664518D9412D00F1FB4F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9CA1664318D9412D00F1FB4F /* iMemoGame */,
+				9CA1666418D9412D00F1FB4F /* iMemoGameTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9CA1664218D9412D00F1FB4F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9C9F4CC518DE05E900723CBD /* card29.png in Resources */,
+				9C9F4CAC18DE05E900723CBD /* card4.png in Resources */,
+				9C9F4CBB18DE05E900723CBD /* card19.png in Resources */,
+				9C9F4CCB18DE05E900723CBD /* icon58.png in Resources */,
+				9C9F4CB618DE05E900723CBD /* card14.png in Resources */,
+				9C9F4CC818DE05E900723CBD /* cover2.png in Resources */,
+				9C9F4CB318DE05E900723CBD /* card11.png in Resources */,
+				9C9F4CAF18DE05E900723CBD /* card7.png in Resources */,
+				9CA028DA18DDF5E000D13595 /* icon29.png in Resources */,
+				9C9F4CAA18DE05E900723CBD /* card2.png in Resources */,
+				9CA028DF18DDF5E000D13595 /* icon152.png in Resources */,
+				9C9F4CC318DE05E900723CBD /* card27.png in Resources */,
+				9CA1666018D9412D00F1FB4F /* Images.xcassets in Resources */,
+				9C9F4CB518DE05E900723CBD /* card13.png in Resources */,
+				9C9F4CCE18DE05E900723CBD /* icon152.png in Resources */,
+				9C9F4CBD18DE05E900723CBD /* card21.png in Resources */,
+				9C9F4CB718DE05E900723CBD /* card15.png in Resources */,
+				9C9F4CCA18DE05E900723CBD /* icon40.png in Resources */,
+				9C9F4CBF18DE05E900723CBD /* card23.png in Resources */,
+				9CA028D918DDF5E000D13595 /* cover2.png in Resources */,
+				9CA028DE18DDF5E000D13595 /* icon80.png in Resources */,
+				9C9F4CCC18DE05E900723CBD /* icon76.png in Resources */,
+				9C9F4CAD18DE05E900723CBD /* card5.png in Resources */,
+				9C9F4CB918DE05E900723CBD /* card17.png in Resources */,
+				9C9F4CAE18DE05E900723CBD /* card6.png in Resources */,
+				9C9F4CCD18DE05E900723CBD /* icon80.png in Resources */,
+				9C9F4CC118DE05E900723CBD /* card25.png in Resources */,
+				9CA1665218D9412D00F1FB4F /* InfoPlist.strings in Resources */,
+				9C9F4CC018DE05E900723CBD /* card24.png in Resources */,
+				9CA028DC18DDF5E000D13595 /* icon58.png in Resources */,
+				9C9F4CB218DE05E900723CBD /* card10.png in Resources */,
+				9CA028DB18DDF5E000D13595 /* icon40.png in Resources */,
+				9C9F4CB018DE05E900723CBD /* card8.png in Resources */,
+				9C9F4CC718DE05E900723CBD /* cover.png in Resources */,
+				9C9F4CBC18DE05E900723CBD /* card20.png in Resources */,
+				9C9F4CAB18DE05E900723CBD /* card3.png in Resources */,
+				9C9F4CC618DE05E900723CBD /* card30.png in Resources */,
+				9C9F4CB118DE05E900723CBD /* card9.png in Resources */,
+				9CD7925218D9420700A42B80 /* Main.storyboard in Resources */,
+				9C9F4CCF18DE05E900723CBD /* restartButton.png in Resources */,
+				9C9F4CBE18DE05E900723CBD /* card22.png in Resources */,
+				9CA028D118DDD89E00D13595 /* restartButton.png in Resources */,
+				9C9F4CC218DE05E900723CBD /* card26.png in Resources */,
+				9C9F4CBA18DE05E900723CBD /* card18.png in Resources */,
+				9C9F4CB818DE05E900723CBD /* card16.png in Resources */,
+				9CA028DD18DDF5E000D13595 /* icon76.png in Resources */,
+				9C9F4CB418DE05E900723CBD /* card12.png in Resources */,
+				9C9F4CC418DE05E900723CBD /* card28.png in Resources */,
+				9C9F4CA918DE05E900723CBD /* card1.png in Resources */,
+				9C9F4CC918DE05E900723CBD /* icon29.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9CA1666318D9412D00F1FB4F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9CA1667118D9412D00F1FB4F /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9CA1664018D9412D00F1FB4F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9CD7922F18D941C700A42B80 /* gameButton.m in Sources */,
+				9CA1665818D9412D00F1FB4F /* AppDelegate.m in Sources */,
+				9CD7925318D9420700A42B80 /* ViewController.m in Sources */,
+				9CA1665418D9412D00F1FB4F /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9CA1666118D9412D00F1FB4F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9CA1667318D9412D00F1FB4F /* iMemoGameTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9CA1666B18D9412D00F1FB4F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9CA1664318D9412D00F1FB4F /* iMemoGame */;
+			targetProxy = 9CA1666A18D9412D00F1FB4F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		9CA1665018D9412D00F1FB4F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9CA1665118D9412D00F1FB4F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		9CA1666F18D9412D00F1FB4F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9CA1667018D9412D00F1FB4F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9CA1667418D9412D00F1FB4F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		9CA1667518D9412D00F1FB4F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9CA1667718D9412D00F1FB4F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iMemoGame/iMemoGame-Prefix.pch";
+				INFOPLIST_FILE = "iMemoGame/iMemoGame-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		9CA1667818D9412D00F1FB4F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iMemoGame/iMemoGame-Prefix.pch";
+				INFOPLIST_FILE = "iMemoGame/iMemoGame-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		9CA1667A18D9412D00F1FB4F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/iMemoGame.app/iMemoGame";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iMemoGame/iMemoGame-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "iMemoGameTests/iMemoGameTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		9CA1667B18D9412D00F1FB4F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/iMemoGame.app/iMemoGame";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iMemoGame/iMemoGame-Prefix.pch";
+				INFOPLIST_FILE = "iMemoGameTests/iMemoGameTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9CA1663F18D9412D00F1FB4F /* Build configuration list for PBXProject "iMemoGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9CA1667418D9412D00F1FB4F /* Debug */,
+				9CA1667518D9412D00F1FB4F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9CA1667618D9412D00F1FB4F /* Build configuration list for PBXNativeTarget "iMemoGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9CA1667718D9412D00F1FB4F /* Debug */,
+				9CA1667818D9412D00F1FB4F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9CA1667918D9412D00F1FB4F /* Build configuration list for PBXNativeTarget "iMemoGameTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9CA1667A18D9412D00F1FB4F /* Debug */,
+				9CA1667B18D9412D00F1FB4F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9CA1663C18D9412D00F1FB4F /* Project object */;
+}
